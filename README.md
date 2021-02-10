@@ -1,2 +1,2 @@
 # Automatic-License-Plate-Recognition
-an automatic license plate recognition system made by computer vision technology
+an automatic license plate recognition system using computer vision technology
